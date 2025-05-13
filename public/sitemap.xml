@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://jamesjewsbury.github.io/blog/</loc>
     <lastmod>2025-05-13T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>/tags/blogging/</loc>
+    <loc>https://jamesjewsbury.github.io/blog/tags/blogging/</loc>
     <lastmod>2025-05-13T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>https://jamesjewsbury.github.io/blog/blog/</loc>
     <lastmod>2025-05-13T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>/tags/hugo/</loc>
+    <loc>https://jamesjewsbury.github.io/blog/tags/hugo/</loc>
     <lastmod>2025-05-13T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>/tags/markdown/</loc>
+    <loc>https://jamesjewsbury.github.io/blog/tags/markdown/</loc>
     <lastmod>2025-05-13T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>/blog/sample/</loc>
+    <loc>https://jamesjewsbury.github.io/blog/blog/sample/</loc>
     <lastmod>2025-05-13T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://jamesjewsbury.github.io/blog/tags/</loc>
     <lastmod>2025-05-13T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>/tags/webdev/</loc>
+    <loc>https://jamesjewsbury.github.io/blog/tags/webdev/</loc>
     <lastmod>2025-05-13T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>/blog/test/</loc>
+    <loc>https://jamesjewsbury.github.io/blog/blog/test/</loc>
   </url><url>
-    <loc>/showcase/test/</loc>
+    <loc>https://jamesjewsbury.github.io/blog/showcase/test/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://jamesjewsbury.github.io/blog/categories/</loc>
   </url><url>
-    <loc>/showcase/</loc>
+    <loc>https://jamesjewsbury.github.io/blog/showcase/</loc>
   </url><url>
-    <loc>/tags/test/</loc>
+    <loc>https://jamesjewsbury.github.io/blog/tags/test/</loc>
   </url>
 </urlset>

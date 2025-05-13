@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test on JamesJewsbury.dev</title>
-    <link>/tags/test/</link>
+    <link>https://jamesjewsbury.github.io/blog/tags/test/</link>
     <description>Recent content in Test on JamesJewsbury.dev</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jamesjewsbury.github.io/blog/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>big old test</title>
-      <link>/blog/test/</link>
+      <link>https://jamesjewsbury.github.io/blog/blog/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/blog/test/</guid>
+      <guid>https://jamesjewsbury.github.io/blog/blog/test/</guid>
       <description>&lt;h1 id=&#34;here-is-a-test-website-page&#34;&gt;here is a test website page&lt;/h1&gt;</description>
     </item>
     <item>
       <title>big old test</title>
-      <link>/showcase/test/</link>
+      <link>https://jamesjewsbury.github.io/blog/showcase/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/showcase/test/</guid>
+      <guid>https://jamesjewsbury.github.io/blog/showcase/test/</guid>
       <description>&lt;h1 id=&#34;here-is-a-test-website-page&#34;&gt;here is a test website page&lt;/h1&gt;</description>
     </item>
   </channel>

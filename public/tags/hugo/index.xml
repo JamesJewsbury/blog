@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on JamesJewsbury.dev</title>
-    <link>/tags/hugo/</link>
+    <link>https://jamesjewsbury.github.io/blog/tags/hugo/</link>
     <description>Recent content in Hugo on JamesJewsbury.dev</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 13 May 2025 18:00:00 +0100</lastBuildDate>
-    <atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jamesjewsbury.github.io/blog/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>/blog/sample/</link>
+      <link>https://jamesjewsbury.github.io/blog/blog/sample/</link>
       <pubDate>Tue, 13 May 2025 18:00:00 +0100</pubDate>
-      <guid>/blog/sample/</guid>
+      <guid>https://jamesjewsbury.github.io/blog/blog/sample/</guid>
       <description>&lt;h1 id=&#34;my-first-hugo-post&#34;&gt;My First Hugo Post&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to my first blog post! This one’s mostly me figuring out how Markdown works with Hugo. Honestly, Markdown is like the IKEA furniture of writing—it looks simple, but one wrong move and you’ve summoned Cthulhu instead of a side table.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-i-like-about-markdown&#34;&gt;What I Like About Markdown&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;It’s clean&lt;/li&gt;&#xA;&lt;li&gt;It’s readable&lt;/li&gt;&#xA;&lt;li&gt;It doesn’t require 14 toolbars and a nervous breakdown&lt;/li&gt;&#xA;&lt;li&gt;You can write like a hacker while still talking about soup recipes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Here’s a quick example of &lt;strong&gt;inline code&lt;/strong&gt;: &lt;code&gt;console.log(&amp;quot;Hello, Markdown!&amp;quot;)&lt;/code&gt;&lt;/p&gt;</description>
     </item>
   </channel>
