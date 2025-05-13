@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2025-05-13T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/blogging/</loc>
+    <loc>/tags/blogging/</loc>
     <lastmod>2025-05-13T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2025-05-13T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2025-05-13T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/markdown/</loc>
+    <loc>/tags/markdown/</loc>
     <lastmod>2025-05-13T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/sample/</loc>
+    <loc>/blog/sample/</loc>
     <lastmod>2025-05-13T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2025-05-13T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/webdev/</loc>
+    <loc>/tags/webdev/</loc>
     <lastmod>2025-05-13T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/test/</loc>
+    <loc>/blog/test/</loc>
   </url><url>
-    <loc>//localhost:1313/showcase/test/</loc>
+    <loc>/showcase/test/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/showcase/</loc>
+    <loc>/showcase/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/test/</loc>
+    <loc>/tags/test/</loc>
   </url>
 </urlset>
